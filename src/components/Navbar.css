@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color:rgb(204 47 47);
+    height: 60px;
+    padding:15px 30px;
+    color: #fff;
+  }
+.navbar-menu{
+    display:flex;
+    gap:10px
+    
+}
+
+a{
+    text-decoration:none;
+    color:#fff
+}
+.imgNav{
+    height: 16px;
+    width: 16px;
+}

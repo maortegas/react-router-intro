@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.centrar{
+  padding-top: 75px;
+  text-align:center;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+}
+
+.formulario{
+  display: flex;
+  justify-content:center;
+  text-align: start;
+}
+.form{
+  display: flex;
+ flex-direction: column;
+  justify-content:center;
+  text-align: center;
+  padding-top: 30px;
+}
+.campo{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  width: 700px;
+  padding: 15px;
+}
+textarea{
+  height: 100px;
+  width: 700px;
+}
+input{
+  width: 700px;
+}
+button{
+  padding: 10px 20px;
+  background-color:rgb(204 47 47);
+  color: white;
+  
+}
